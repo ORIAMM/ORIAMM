@@ -7,10 +7,9 @@
 <hr/>
 
 ### &nbsp; 🌟 STRENGTH
-&nbsp;&nbsp;&nbsp;🔹 Advanced proficiency in a wide range of programming languages and frameworks.<br>
-&nbsp;&nbsp;&nbsp;🔹 Extensive experience in system architecture, microservices, and cloud computing.<br>
-&nbsp;&nbsp;&nbsp;🔹 Proven ability to lead and mentor teams in agile and fast-paced environments.<br>
-&nbsp;&nbsp;&nbsp;🔹 Strategic implementation of blockchain solutions to enhance business processes and security.<br><br>
+&nbsp;&nbsp;&nbsp;🔹 I can work well with group projects.<br>
+&nbsp;&nbsp;&nbsp;🔹 Always eager to learn new technologies, techniques, and trends in game development and programming.<br>
+&nbsp;&nbsp;&nbsp;🔹 Constantly seeking new ideas and inspirations for game design and artwork, enhancing the creative quality of my projects.<br><br>
 
 <hr/>
 
