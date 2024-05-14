@@ -174,16 +174,16 @@ g.typingUnderline rect {
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
-<rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
+<rect class="headerRect" width="85" height="7.3" rx="1" x="13" y="16.8"/>
 
 <path id="nameTyping">
   <animate attributeName="d" from="m34,-6 h0" to="m34,-6 h100" dur="1.4s" begin="0s" fill="freeze"/>
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="1">
+      font-weight="bold" letter-spacing="0.4">
   <textPath xlink:href="#nameTyping" >
-      Welcome to my page
+      Welcome to Felix Page    
   </textPath>
 </text>
 
@@ -196,7 +196,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Game Developer | 2D Artist | Undergraduate
+      Unity Game Developer | 2D Visual Artist | Undergraduate
   </textPath>
 </text>
 
