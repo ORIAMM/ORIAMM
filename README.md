@@ -2,7 +2,7 @@
 
 ### &nbsp; 🕵🏻 About Me
 
-&nbsp;&nbsp; A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized expertise in blockchain technology. <br>&nbsp;&nbsp; I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br>&nbsp;&nbsp; As a blockchain expert, I bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
+&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I'm an undergraduate student majoring in Game Development, with a keen interest in game programming and 2D art. <br>&nbsp;&nbsp; I specialize in C# and have experience with C and Python. I primarily use Unity for game programming and Aseprite for 2D art. Currently,<br>&nbsp;&nbsp; I'm working on indie game projects, focusing on creating engaging 2D games. So far, I've successfully developed some indie games. <br><br>&nbsp;&nbsp; ✨ Outside of coding and game development, I enjoy searching for new ideas to enhance my drawing skills and playing new games to stay<br>&nbsp;&nbsp; inspired and updated with the latest trends.<br><br>
 
 <hr/>
 
