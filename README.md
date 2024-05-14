@@ -2,7 +2,7 @@
 
 ### &nbsp; 🕵🏻 About Me
 
-&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I'm an undergraduate student majoring in Game Development, with a keen interest in game programming and 2D art. <br>&nbsp;&nbsp; I specialize in C# and have experience with C and Python. I primarily use Unity for game programming and Aseprite for 2D art.<br>&nbsp;&nbsp; Currently, I'm working on indie game projects, focusing on creating engaging 2D games. So far, I've successfully developed some indie games. <br><br>&nbsp;&nbsp; ✨ Outside of coding and game development, I enjoy searching for new ideas to enhance my drawing skills and playing new games to stay<br>&nbsp;&nbsp; inspired and updated with the latest trends.<br><br>
+&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I'm an undergraduate student majoring in Game Development, with a keen interest in game programming and 2D art. <br>&nbsp;&nbsp; I specialize in C# and have experience with C and Python. I primarily use Unity for game programming and Aseprite for 2D art.<br>&nbsp;&nbsp; Currently, I'm working on indie game projects, focusing on creating engaging 2D games. So far, I've successfully developed some indie<br>&nbsp;&nbsp; games. <br><br>&nbsp;&nbsp; ✨ Outside of coding and game development, I enjoy searching for new ideas to enhance my drawing skills and playing new games to stay<br>&nbsp;&nbsp; inspired and updated with the latest trends.<br><br>
 
 <hr/>
 
