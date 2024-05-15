@@ -30,6 +30,14 @@
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Felixwijaya04&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felixwijaya04&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </p>
 
+### &nbsp; ⭐My Favorite Repo
+  <br/>
+    <p align="center">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Pong2D&theme=nightowl&hide_border=true" />
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Warp-er&theme=nightowl&hide_border=true" />
+
 
 <hr/>
 
