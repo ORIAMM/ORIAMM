@@ -38,15 +38,18 @@
         <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
     </td>
     <td>
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
+      <a href="https://github.com/Felixwijaya04/Across-Java">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td>
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Pong2D&theme=nightowl&hide_border=true" />
+      <a href="https://github.com/Felixwijaya04/Pong2D">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Pong2D&theme=nightowl&hide_border=true" />
     </td>
     <td>
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Warp-er&theme=nightowl&hide_border=true" />
+      <a href="https://github.com/Felixwijaya04/Warp-er">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Warp-er&theme=nightowl&hide_border=true" />
     </td>
   </tr>
 </table>
