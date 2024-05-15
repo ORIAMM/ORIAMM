@@ -31,15 +31,25 @@
     </p>
 
 ### &nbsp; ⭐My Favorite Repo
-  <br/>
-    <p align="center">
+  <table align="center">
+  <tr>
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
+    </td>
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
-    </p>
-    <p align="center">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Pong2D&theme=nightowl&hide_border=true" />
+    </td>
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Warp-er&theme=nightowl&hide_border=true" />
-    </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
