@@ -34,7 +34,8 @@
   <table align="center">
   <tr>
     <td>
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
+      <a href="https://github.com/Felixwijaya04/Project-Valence">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
     </td>
     <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
