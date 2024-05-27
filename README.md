@@ -17,9 +17,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
+      <td align="center"><a href="https://juan-xavier.itch.io/across-java">Itch Page</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
+      <td align="center"><a href="https://github.com/Felixwijaya04/Across-Java">GitHub page</td>
     </tr>
   </tbody>
 </table>
