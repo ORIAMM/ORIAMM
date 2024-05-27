@@ -10,6 +10,7 @@
   <tbody>
     <tr>
       <td align="center"><img src="https://github.com/ORIAMM/About-Me/blob/main/fv9g_G.png?raw=true"/></td>
+      <td><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Across-Java.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
