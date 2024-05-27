@@ -1,26 +1,25 @@
 <img src="images/svg/header_en.svg"></img>
 ### &nbsp; ⭐My Favorite Repo
-  <table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Felixwijaya04/Project-Valence">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Project-Valence&theme=nightowl&hide_border=true" />
-    </td>
-    <td>
-      <a href="https://github.com/Felixwijaya04/Across-Java">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Across-Java&theme=nightowl&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Felixwijaya04/Pong2D">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Pong2D&theme=nightowl&hide_border=true" />
-    </td>
-    <td>
-      <a href="https://github.com/Felixwijaya04/Warp-er">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Felixwijaya04&repo=Warp-er&theme=nightowl&hide_border=true" />
-    </td>
-  </tr>
+<table align="center">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Project-Valence">Project Valence</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://github.com/ORIAMM/About-Me/blob/main/fv9g_G.png?raw=true"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
+    </tr>
+  </tbody>
 </table>
 
 ### &nbsp; 🕵🏻 About Me
