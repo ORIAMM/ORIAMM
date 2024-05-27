@@ -4,6 +4,7 @@
   <thead>
     <tr>
       <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Project-Valence">Project Valence</a></th>
+      <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Across-Java">Across Java</a></th>
     </tr>
   </thead>
   <tbody>
@@ -12,6 +13,7 @@
     </tr>
     <tr>
       <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
+      <td valign="text-top"><b>Across Java</b> is a typing, platformer indie video game that follow Gatotkaca, our main protagonist on his journey towards Bima. Across Java followed a story of Gatotkaca’s moments before his eventual demise, though the time of that said demise was uncertain.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
