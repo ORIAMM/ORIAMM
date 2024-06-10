@@ -46,6 +46,7 @@
     <td valign="text-top"><b>Warp'er</b> is TBA</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://felixde-cat.itch.io/pong-virus">Itch Page</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Felixwijaya04/Pong-Virus"><b>GitHub Page</b></td>
