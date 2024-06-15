@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/unity%20TG10%202024-05-27%2023-41-48%20(3).gif"/></td>
-      <td><img src=""/></td>
+      <td><img/></td>
     </tr>
     <tr>
       <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
@@ -32,21 +32,21 @@
 <table align="center">
 <thead>
   <tr>
-    <th width="50%" align="center"><a>Schizo</a></th>
-    <th width="50%" align="center"><a></a></th>
+    <th width="50%" align="center"><a href="" >Schizo</a></th>
+    <th width="50%" align="center"><a href="" ></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center"><img/></td>
-    <td></td>
+    <td align="center"><img/></td>
   </tr>
   <tr>
     <td valign="text-top"><b> - </td>
     <td valign="text-top"><b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://felixde-cat.itch.io/pong-virus">Itch Page</td>
+    <td align="center"><a href="">Itch Page</td>
   </tr>
   <tr>
     <td align="center"><a><b>GitHub Page</b></td>
