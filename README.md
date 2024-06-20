@@ -29,31 +29,7 @@
         
 <br/>
 
-<table align="center">
-<thead>
-  <tr>
-    <th width="50%" align="center"><a href="" >Schizo</a></th>
-    <th width="50%" align="center"><a href="" ></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><img/></td>
-    <td align="center"><img/></td>
-  </tr>
-  <tr>
-    <td valign="text-top"><b> - </td>
-    <td valign="text-top"><b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="">Itch Page</td>
-  </tr>
-  <tr>
-    <td align="center"><a><b>GitHub Page</b></td>
-    <td align="center"><a>GitHub page</td>
-  </tr>
-</tbody>
-</table>   
+  
 
         
 ### &nbsp; 🕵🏻 About Me
