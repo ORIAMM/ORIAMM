@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
-      <td valign="text-top"><b>Trashure</b> .</td>
+      <td valign="text-top"><b>Trashure</b> is a 3D Multiplayer Casual Party Game. Managing and processing trash has been a challenge throughout the world. Alone or with friends, help the world by managing things in Trashure factory. Work together, avoid disaster, and most importantly process all the trash for customer.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
