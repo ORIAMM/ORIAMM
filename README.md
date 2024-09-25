@@ -29,6 +29,32 @@
         
 <br/>
 
+<table align="center">
+<thead>
+  <tr>
+    <th width="50%" align="center"><a>Another Choice</a></th>
+    <th width="50%" align="center"><a>White Legend Knight</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><img src="https://github.com/ORIAMM/ORIAMM/blob/main/images/Gif_Another_Choice_1.gif"/></td>
+    <td align="center"><img src="https://github.com/ORIAMM/ORIAMM/blob/main/images/GIF%20Resized.gif"/></td>
+  </tr>
+  <tr>
+    <td valign="text-top"><b>Another Choice</b> is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille.</td>
+    <td valign="text-top">In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom.</td>
+  </tr>
+  <tr>
+    <td align="center"><a>Itch Page</td>
+    <td align="center"><a>Itch Page</td>
+  </tr>
+  <tr>
+    <td align="center"><a><b>GitHub Page</b></td>
+    <td align="center"><a>GitHub page</td>
+  </tr>
+</tbody>
+</table>   
   
 
         
