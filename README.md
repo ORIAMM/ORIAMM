@@ -1,4 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
 ### &nbsp; ⭐My Favorite Repo
 <table align="center">
   <thead>
