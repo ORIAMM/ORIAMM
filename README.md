@@ -61,15 +61,21 @@
 
 &nbsp;&nbsp;👋 Hello! I'm Mario Valent Wibowo <br>&nbsp;&nbsp;  I'm an undergraduate student majoring in Game Development, with a keen interest in game programming and Game Art. <br>&nbsp;&nbsp; I specialize in C# and have experience with C and Python. I primarily use Unity for game programming and Aseprite / Blender for Game Art.<br>&nbsp;&nbsp; Currently, I'm working on indie game projects, focusing on creating engaging 2D and 3D games. So far, I've successfully developed some indie<br>&nbsp;&nbsp; games. <br><br>&nbsp;&nbsp; ✨ Outside of coding and game development, I enjoy searching for new ideas to enhance my animating Skills and playing some games to<br>&nbsp;&nbsp; stay inspired and updated with the latest trends.<br><br>
 
-### &nbsp; 🏆 GitHub Statistics
+<h2 align="center">📊My Stats</h2>
 
-  <br/>
-    <p align="center">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ORIAMM&theme=nightowl&hide_border=true" />
-    </p>
-    <p align="center">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ORIAMM&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORIAMM&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </p>
+<p align="center">
+<picture>
+   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ORIAMMS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  /> 
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ORIAMMS&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ORIAMM&show_icons=true" />
+</picture>
+</p>
 
 
 
