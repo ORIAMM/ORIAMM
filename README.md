@@ -17,11 +17,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
-      <td align="center"><a>Itch Page</td>
+      <td align="center"><a href="https://tottadits.itch.io/trashure">Itch Page</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
-      <td align="center"><a>GitHub page</td>
+      <td align="center"><a href="https://github.com/Gramonesk/Treasure">GitHub page</td>
     </tr>
   </tbody>
 </table>
@@ -49,7 +49,7 @@
     <td align="center"><a>Itch Page</td>
   </tr>
   <tr>
-    <td align="center"><a><b>GitHub Page</b></td>
+    <td align="center"><a href="https://github.com/Felixwijaya04/AnotherChoice_readme"><b>GitHub Page</b></td>
     <td align="center"><a>GitHub page</td>
   </tr>
 </tbody>
