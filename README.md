@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
-      <td align="center"><a href="https://github.com/Gramonesk/Treasure">GitHub page</td>
+      <td align="center"><a href="https://github.com/Gramonesk/Treasure"><b>GitHub page</b></td>
     </tr>
   </tbody>
 </table>
