@@ -32,7 +32,7 @@
 <thead>
   <tr>
     <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/AnotherChoice_readme">Another Choice</a></th>
-    <th width="50%" align="center"><a>White Legend Knight</a></th>
+    <th width="50%" align="center"><a>Chronovore</a></th>
   </tr>
 </thead>
 <tbody>
