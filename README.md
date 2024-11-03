@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td valign="text-top"><b>Another Choice</b> is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille.</td>
-    <td valign="text-top">In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom.</td>
+    <td valign="text-top">**Chronovore** is a 3D hack-and-slash action RPG where time is your only life force. As time constantly ticks down, players must fight through hordes of enemies to reclaim the precious seconds needed to survive. Every hit, kill, and combo adds time, but with each mistake, time slips away. The player wields the unique power to stop time for brief moments, gaining an edge in combat or evading death—but using this power comes at the cost of your remaining life. Set in a peaceful, yet monstrous world, Chronovore challenges you to manage your time and skillfully battle through a relentless struggle for survival.</td>
   </tr>
   <tr>
     <td align="center"><a>Itch Page</td>
